@@ -1,0 +1,68 @@
+body {
+    font-family: 'Muli', sans-serif;
+    background-color: #F3F2EA;
+}
+
+.banner {
+    background-image: url('.../images/Projects/hero.png');
+    background-size: cover;
+}
+
+.hero_img {
+    background-size: cover;
+    width: 100%;
+}
+
+.navbar{
+    background-color: #001025;;
+}
+
+.name {
+    color:white;
+    letter-spacing: 0.2rem;
+    padding-left: 1rem; 
+}
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+    text-align: center !important;
+    padding-right: 1rem;
+}
+
+.nav-item {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+
+.nav-link {
+    color: white;
+}
+
+.projects {
+    text-align: center;
+    padding: 5rem;
+}
+
+h1 {
+    padding: 3rem;
+}
+.carousel-item {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+.carousel-caption {
+    text-align: justify;
+    color: black;
+
+}
+
+.MyProjects {
+    text-align: center;
+}
+
+.card {
+    width: 21.5em;
+    margin:0 auto;
+}
+
